@@ -1,0 +1,1 @@
+# LotteryBotApp - 叠号追号机器人\n\n## 构建APK\n\n### 方法1: GitHub Actions (推荐)\n1. 创建GitHub仓库\n2. 上传此代码\n3. 进入Actions -> build_apk -> Run workflow\n4. 下载APK\n\n### 方法2: Android Studio\n1. 安装Android Studio\n2. File -> Open -> 选择此文件夹\n3. Build -> Build APK\n\n## 安装后使用\n1. 打开"叠号机器人"App\n2. 点击"启动" -> 开启无障碍\n3. 打开彩票App下单页\n4. 自动运行\n
